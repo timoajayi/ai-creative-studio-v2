@@ -1,0 +1,11 @@
+{
+  "_note": "Replace this placeholder with an exported ComfyUI API-format workflow.",
+  "workflow_name": "product_image_generation",
+  "expected_inputs": {
+    "positive_prompt": "{{PROMPT}}",
+    "negative_prompt": "{{NEGATIVE_PROMPT}}",
+    "seed": "{{SEED}}",
+    "width": "{{WIDTH}}",
+    "height": "{{HEIGHT}}"
+  }
+}

@@ -1,0 +1,1 @@
+{"_instructions":"Replace this with a workflow exported from ComfyUI in API format.","_placeholders":["{{PROMPT}}","{{NEGATIVE_PROMPT}}","{{SEED}}","{{STEPS}}","{{CFG}}","{{WIDTH}}","{{HEIGHT}}","{{BATCH_SIZE}}"]}
